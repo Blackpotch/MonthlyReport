@@ -1,0 +1,13 @@
+12/6/17*************************************************************************
+OVERVIEW...
+Some of the main points which need attention at this stage are on the input data
+sheet. I need to add a checkbox to toggle the afternoon shift input box on and off.
+The sheet numbering algorithm needs to be modified and coded to suit changes in shifts
+per day i.e. afternoon, night, day only.
+
+The ribbon XML needs to be modified. The navigation item "Control Centre" is no longer
+valid. More years need to be added to the Years dropdown box on the ribbon.
+
+12/6/17**************************************************************************
+Create a new checkbox on the input data sheet.
+Create a new subroutine on the input data sheet code module.
