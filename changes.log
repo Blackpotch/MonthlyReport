@@ -15,3 +15,11 @@ Create a new subroutine on the input data sheet code module.
 16/6/17**************************************************************************
 Code the subroutine for the new checkbox and modify the subroutine for the night
 Shift checkbox.
+
+20/6/17**************************************************************************
+Modify the formulas in the Data Input sheet to reflect which sheet number should be
+being entered. The main one was Day Shift where a nested IF statement was added.
+This should now be ready for testing.
+
+FUTURE MODS - A new sheet needs to be added to collect all the data entered and maintain
+the same integrity so as to enable direct import to a database.
