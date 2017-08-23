@@ -23,3 +23,11 @@ This should now be ready for testing.
 
 FUTURE MODS - A new sheet needs to be added to collect all the data entered and maintain
 the same integrity so as to enable direct import to a database.
+
+23/8/17***************************************************************************
+Wayne has requested we start tracking Caravans and Campers. Thus:
+Add sheet to track Caravans and Campers
+Begin mods to the Input sheet
+Add lines to Input sheet for Caravans and Campers
+Modify custom views to allow for extra lines
+Add branch Caravans for these editions
