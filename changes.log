@@ -34,3 +34,7 @@ Add branch Caravans to GIT for these editions
 
 29/8/17****************************************************************************
 Add row in summary sheet to accomodate Caravans/Campers
+
+30/9/17****************************************************************************
+Fix the buttons on the input sheet to accomodate for the extra rows and mod the 
+Summary sheet to calculate Caravans and Campers
