@@ -35,6 +35,12 @@ Add branch Caravans to GIT for these editions
 29/8/17****************************************************************************
 Add row in summary sheet to accomodate Caravans/Campers
 
-30/9/17****************************************************************************
+30/8/17****************************************************************************
 Fix the buttons on the input sheet to accomodate for the extra rows and mod the 
 Summary sheet to calculate Caravans and Campers
+
+2/9/17*****************************************************************************
+Begin modifying the subroutines for the inject data button
+Add a column to the midnight shift sheet to accomodate for Caravans and Campers
+The inject Night shift sub routine needs some work and an InjectCaravans sub needs
+to be created
