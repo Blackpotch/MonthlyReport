@@ -54,3 +54,8 @@ Create the InjectCaravansAndCampers sub
 ***Wayne has indicated this workbook will to sent to Megs. This means the Ribbon XML 
 will need to be edited and another list box added for the location so it can be
 addapted for use at Pinnaroo and the other stations for that matter.
+
+9/9/17******************************************************************************
+Modified the RibbonUI XML and added the xml file to the git repository. Locations are
+on the ribbon xml now and the callback subroutine is in place. I think I'm read for
+testing.
