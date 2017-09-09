@@ -57,5 +57,7 @@ addapted for use at Pinnaroo and the other stations for that matter.
 
 9/9/17******************************************************************************
 Modified the RibbonUI XML and added the xml file to the git repository. Locations are
-on the ribbon xml now and the callback subroutine is in place. I think I'm read for
+on the ribbon xml now and the callback subroutine is in place. I think I'm ready for
 testing.
+***Modify the ToggleNightshift and ToggleAfternoonshift Sub routines and make some
+cosmetic changes to the Input Data sheet. Prepare for Testing...
