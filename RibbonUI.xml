@@ -16,7 +16,7 @@
           <button id="rbtSummary" label="Summary" imageMso="PageSetupPageDialog" onAction="GoSummary" />
         </group>
         <group id="settingsGroup" label="Settings">
-          <dropDown id="ddwnYears" label="Year Ending:" onAction="ChangeYear" getItemLabel="GetYear">
+          <dropDown id="ddwnYears" label="Year Ending:" onAction="ChangeYear" getSelectedItemID="GetYear">
             <item id="id2017" label="2017" />
             <item id="id2018" label="2018" />
             <item id="id2019" label="2019" />
