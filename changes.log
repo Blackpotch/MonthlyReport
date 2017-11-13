@@ -68,3 +68,6 @@ highlight the busy days and/or shifts.
 
 23/10/17****************************************************************************
 Further modify the data sheet to include a table and chart for averages of the above
+
+14/11/17****************************************************************************
+Modify the VBA code on the input sheet to compensate for the additional rows
