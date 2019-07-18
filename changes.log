@@ -71,3 +71,6 @@ Further modify the data sheet to include a table and chart for averages of the a
 
 14/11/17****************************************************************************
 Modify the VBA code on the input sheet to compensate for the additional rows
+
+18/7/19
+* Change the Shift Stats sheet named ranges and formats to facilitate exporting to access.
