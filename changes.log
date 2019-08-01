@@ -77,3 +77,6 @@ Modify the VBA code on the input sheet to compensate for the additional rows
 
 1/8/19
 * Further change the ShiftStats range so that it points to the data required for exporting. Save as template and test.
+
+1/8/19
+* Fix the broken formulas in on the shiftstats sheet
