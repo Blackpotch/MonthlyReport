@@ -80,3 +80,6 @@ Modify the VBA code on the input sheet to compensate for the additional rows
 
 1/8/19
 * Fix the broken formulas in on the shiftstats sheet
+
+1/8/19
+* Fix broken formulas in the Summary sheet
