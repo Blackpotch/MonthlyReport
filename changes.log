@@ -80,3 +80,7 @@ Modify the VBA code on the input sheet to compensate for the additional rows
 
 27/3/20
 * Fix the comments and Shift stats sheet
+
+28/3/20
+* Unlock the comments cell 
+
