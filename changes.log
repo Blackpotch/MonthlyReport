@@ -84,8 +84,11 @@ Modify the VBA code on the input sheet to compensate for the additional rows
 28/3/20
 * Unlock the comments cell 
 
-15/10/20
+15/10/21
 * Address the nonconforming buttons on the Data entry sheet
 
-22/10/20
+22/10/21
 * Edit the ribbon XML to display years from 2021 to 2026 in the ribbonUI Dropdown
+
+20/11/21
+* Prepare the Shift Stats sheet for exporting to Access
