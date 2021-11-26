@@ -92,3 +92,6 @@ Modify the VBA code on the input sheet to compensate for the additional rows
 
 20/11/21
 * Prepare the Shift Stats sheet for exporting to Access
+
+27/11/21
+* Repair the Summary sheet which broke as a result of the previous commit
