@@ -98,3 +98,6 @@ Modify the VBA code on the input sheet to compensate for the additional rows
 
 12/12/21
 * Add a check column in the shift stats sheet. This is to verify that what is being entered in the shift stats sheet matches what's in the rest of the spreadsheet.
+
+15/04/23
+* Re-address nonconforming buttons on the data entry sheet
